@@ -1,0 +1,5 @@
+com\zappos\rafflrz\evntz\Application.class
+com\zappos\rafflrz\evntz\RaffleEvent.class
+com\zappos\rafflrz\evntz\RaffleEventController.class
+com\zappos\rafflrz\evntz\RaffleEventDAO.class
+com\zappos\rafflrz\evntz\RaffleEventDaoImpl.class
