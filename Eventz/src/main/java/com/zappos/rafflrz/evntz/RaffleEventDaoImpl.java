@@ -64,6 +64,7 @@ public class RaffleEventDaoImpl implements RaffleEventDAO {
 			String location) {
 		
 		RaffleEvent re = new RaffleEvent();
+		re.setTitle(title);
 		re.setStartTime(startTime);
 		re.setEndTime(endTime);
 		re.setDescription(description);
