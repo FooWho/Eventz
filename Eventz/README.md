@@ -19,3 +19,5 @@ Updates the event specified by {id} to match the event specified in the request 
 
 DELETE: /events{id}
 Deletes the event specified by {id}.
+
+End docs.
